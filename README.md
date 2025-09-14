@@ -14,14 +14,22 @@ In 2025, the Smalltalk ecosystem is more diverse and vibrant than ever. This boo
 - **Modern relevance**: Smalltalk's DNA in today's languages
 - **Occasional humor**: Because programming should be fun
 
-## The Cast of Characters
+## Book Structure
 
-- **Squeak**: The eternal playground
-- **Pharo**: The industrial revolutionary
-- **Glamorous Toolkit**: The moldable maverick
-- **GNU Smalltalk**: The command-line contrarian
-- **Amber**: The browser's best friend
-- **And more**: Brief encounters with Dolphin, Cuis, Smalltalk/X, and VisualWorks
+Start with the [Table of Contents](table-of-contents.md) or dive directly into any chapter:
+
+### Chapters
+
+1. [Introduction - The Language That Refuses to Die](chapters/01-introduction.md)
+2. [Squeak - The Mouse That Roared](chapters/02-squeak.md)
+3. [Pharo - The Industrial Revolutionary](chapters/03-pharo.md)
+4. [Glamorous Toolkit - The Moldable Maverick](chapters/04-glamorous-toolkit.md)
+5. [GNU Smalltalk - The Command-Line Contrarian](chapters/05-gnu-smalltalk.md)
+6. [Amber - The Browser's Best Friend](chapters/06-amber.md)
+7. [The Others - Brief Encounters](chapters/07-others.md)
+8. [Influences and Legacy - How Smalltalk Infected Everything](chapters/08-influences.md)
+9. [Conclusion - Why We Can't Quit Smalltalk](chapters/09-conclusion.md)
+10. [Appendix - Getting Started](chapters/appendix.md)
 
 ## Who This Book Is For
 
@@ -30,10 +38,6 @@ In 2025, the Smalltalk ecosystem is more diverse and vibrant than ever. This boo
 - Programming language enthusiasts
 - Anyone who enjoys reading about programming culture and history
 - People who think `3 + 4 * 5 = 35` makes perfect sense
-
-## Reading the Book
-
-The complete book is available in [smalltalk-about-smalltalk.md](smalltalk-about-smalltalk.md).
 
 ## Why Smalltalk Still Matters
 
